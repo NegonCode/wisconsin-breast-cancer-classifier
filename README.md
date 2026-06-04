@@ -1,7 +1,7 @@
 # 🔬 Optimización de umbrales de decisión en regresión logística para clasificación de cáncer de mama
 
-**Autora:** Nerea González
-**Máster en Inteligencia Artificial — Tokio School**
+**Autora:** Nerea González <br>
+**Máster en Inteligencia Artificial — Tokio School** <br>
 **Calificación: 9/10**
 
 ---
@@ -72,9 +72,9 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 
 # 🔬 Decision Threshold Optimization in Logistic Regression for Breast Cancer Classification
 
-**Author:** Nerea González
-**Master's in Artificial Intelligence — Tokio School**
-**Grade: 9/10**
+**Author:** Nerea González <br>
+**Master's in Artificial Intelligence — Tokio School** <br>
+**Grade: 9/10** <br>
 
 ---
 
